@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="Icon" transform="translate(-227 -2042)">
-    <path id="Next" d="M0,0H24V24H0Z" transform="translate(227 2042)" fill="#0045fb" opacity="0"/>
-    <path id="arrow-right" d="M21.9,13.5a1.334,1.334,0,0,0-.28-.44L14.95,6.388a1.339,1.339,0,0,0-1.894,1.894l4.4,4.388H7.334a1.334,1.334,0,0,0,0,2.668H17.458l-4.4,4.389a1.339,1.339,0,1,0,1.894,1.894l6.669-6.669A1.379,1.379,0,0,0,21.9,13.5Z" transform="translate(225 2039.994)" fill="#fff"/>
-  </g>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="Hamburger_icon_24x24" data-name="Hamburger icon 24x24" transform="translate(-164 -599)">
-    <g id="Search_icon_24x24" data-name="Search icon 24x24" transform="translate(164 599)" opacity="0">
-      <rect id="Rectangle_1546" data-name="Rectangle 1546" width="24" height="24"/>
-    </g>
-    <path id="bars-2" d="M3,8H21a1,1,0,0,0,0-2H3A1,1,0,0,0,3,8Zm18,8H3a1,1,0,0,0,0,2H21a1,1,0,0,0,0-2Zm0-5H3a1,1,0,0,0,0,2H21a1,1,0,0,0,0-2Z" transform="translate(164 599)" fill="#222"/>
-  </g>
-</svg>

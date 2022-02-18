@@ -1,2 +1,0 @@
-# spolto-poc
-Spolto POC

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g id="Group_4332" data-name="Group 4332" transform="translate(-526 -751)">
-    <g id="BG" transform="translate(550 775) rotate(180)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
-      <rect width="24" height="24" stroke="none"/>
-      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
-    </g>
-    <path id="share-alt" d="M17.994,13.98a4,4,0,0,0-3.079,1.478l-5.1-2.346a3.63,3.63,0,0,0,0-2.256l5.1-2.346A3.992,3.992,0,1,0,14,5.993a4.158,4.158,0,0,0,.07.709L8.788,9.128a4,4,0,1,0,0,5.711l5.278,2.426a4.158,4.158,0,0,0-.07.709,4,4,0,1,0,4-3.993Zm0-9.984a2,2,0,1,1-2,2A2,2,0,0,1,17.994,4ZM6,13.98a2,2,0,1,1,2-2A2,2,0,0,1,6,13.98Zm12,5.99a2,2,0,1,1,2-2A2,2,0,0,1,17.994,19.971Z" transform="translate(526.007 751.033)" fill="#222"/>
-  </g>
-</svg>
