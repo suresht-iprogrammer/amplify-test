@@ -1,0 +1,73 @@
+.collection_wrapper {
+  background-color: var(--color-white2);
+  padding-top: 96px;
+  /* padding-bottom: 48px; */
+  padding-bottom: 30px;
+}
+
+/* .collection_title h3{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 48px;
+    color: #000;
+} */
+.card {
+  border: none;
+  background-color: transparent;
+  width: 95%;
+}
+.card_title {
+  font-size: 26px;
+  color: #000;
+  margin-top: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.card_image {
+  width: 100%;
+  height: 422px;
+  /* max-width: 282px; */
+  max-width: 100%;
+  border-radius: 15px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.card_image img {
+  width: 100% !important;
+  height: 422px !important;
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+}
+
+.card:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+.card:hover .card_title {
+  color: var(--color-violet);
+}
+
+.arrowIcon {
+  /* width: 15px; */
+  width: 9px;
+  position: relative;
+  top: -2px;
+}
+
+@media all and (max-width: 767px) {
+  .collection_wrapper{
+    padding-top: 60px;
+  }
+  .card_title {
+    font-size: 20px;
+  }
+  .card{
+    width: 97%;
+  }
+  .card_image {
+    height: 350px;
+  }
+}

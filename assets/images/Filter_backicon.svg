@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Back_icon_24x24" data-name="Back icon 24x24" transform="translate(0.392 0.392)">
+    <rect id="Rectangle_1546" data-name="Rectangle 1546" width="18" height="18" transform="translate(-0.392 -0.392)" opacity="0"/>
+    <path id="bars" d="M2.771,8H16.647a.908.908,0,0,0,.771-1,.908.908,0,0,0-.771-1H2.771A.908.908,0,0,0,2,7,.908.908,0,0,0,2.771,8Zm8.709,8H7.771A.908.908,0,0,0,7,17a.908.908,0,0,0,.771,1H11.48a.908.908,0,0,0,.771-1A.908.908,0,0,0,11.48,16Zm2.084-5H5.771A.908.908,0,0,0,5,12a.908.908,0,0,0,.771,1h7.793a.908.908,0,0,0,.771-1A.908.908,0,0,0,13.563,11Z" transform="translate(18.316 20.607) rotate(180)" fill="#0045fb"/>
+  </g>
+</svg>

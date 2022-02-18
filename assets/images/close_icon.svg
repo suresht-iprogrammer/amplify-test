@@ -1,0 +1,10 @@
+<svg id="Component_482_12" data-name="Component 482 – 12" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle id="_icon_bg" data-name="/icon /bg" cx="16" cy="16" r="16" fill="#fff"/>
+  <g id="Chat_icon_24x24" data-name="Chat icon 24x24" transform="translate(-160 -595)">
+    <rect id="Rectangle_1546" data-name="Rectangle 1546" width="16" height="16" transform="translate(168 603)" opacity="0"/>
+    <g id="Group_6248" data-name="Group 6248" transform="translate(3.001 3.001)">
+      <path id="Path_766" data-name="Path 766" d="M5046.587-12756.785l-5,5,5,5" transform="translate(-4868.339 13359.785)" fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_771" data-name="Path 771" d="M5041.588-12756.785l5,5-5,5" transform="translate(-4873.338 13359.785)" fill="none" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
